@@ -1,5 +1,6 @@
 import HeroSection from "./components/HeroSection.jsx";
 import FeatureSection from "./components/FeatureSection.jsx";
+import DemoSection from "./components/DemoSection.jsx";
 
 function App() {
     return (
@@ -7,6 +8,7 @@ function App() {
             <HeroSection/>
             <FeatureSection/>
             <DemoSection/>
+
         </>
     );
 }
