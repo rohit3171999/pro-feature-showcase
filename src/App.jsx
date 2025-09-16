@@ -6,6 +6,7 @@ function App() {
         <>
             <HeroSection/>
             <FeatureSection/>
+            <DemoSection/>
         </>
     );
 }
